@@ -3,4 +3,4 @@
 2. Data augmentation, google cloud setup and pretraining
 
 ## 1. Comparison between CNN and FCN.
-<img src="https://github.com/zhihanyang2022/presentations/blob/master/nn_impression_6.png" alt="drawing" width="200"/>
+<img src="https://github.com/zhihanyang2022/presentations/blob/master/nn_impression_6.png" alt="drawing" width="1000"/>
